@@ -10,8 +10,8 @@
   --line: rgba(38, 26, 32, 0.18);
   --section-pad: clamp(72px, 9vw, 144px);
   --gutter: clamp(20px, 4vw, 64px);
-  --display: var(--font-display), "Iowan Old Style", "Baskerville", serif;
-  --sans: var(--font-sans), "Helvetica Neue", sans-serif;
+  --display: "Iowan Old Style", "Baskerville", "Times New Roman", serif;
+  --sans: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
 }
 
 * {
